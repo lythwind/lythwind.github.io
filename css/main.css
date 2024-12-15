@@ -189,8 +189,20 @@ button:active {
   from {opacity: 0;}
   to {opacity: 1;}
 }
-.xfooter{
-position: relative;
-  bottom: 100px;
-  margin-top: 200px;
+
+
+.page-container {
+  position: relative;
+  min-height: 100vh;
+}
+
+.page-content {
+  padding-bottom: 2.5rem;   
+}
+
+.xfooter {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;           
 }
