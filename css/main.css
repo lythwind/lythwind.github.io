@@ -193,23 +193,23 @@ button:active {
 }
 .b1{
 position: absolute;
-  top:0;
-  left:0;
+  top:10px;
+  left:10px;
 }
 .b2{
 position: absolute;
-  top:0;
-  right:0;
+  top:10px;
+  right:10px;
 }
 .b3{
 position: absolute;
-  bottom:0;
-  left:0;
+  bottom:10px;
+  left:10px;
 }
 .b4{
 position: absolute;
-  bottom:0;
-  right:0;
+  bottom:10px;
+  right:10px;
 }
 .bn{
   display: inline-block;
