@@ -225,3 +225,10 @@ position: absolute;
   border-radius: 15px;
   box-shadow: 0 9px #999;
 }
+
+hr {
+  height:3px;
+  color:green;
+  background-color:green;
+  
+}
