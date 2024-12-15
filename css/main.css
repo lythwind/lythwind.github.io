@@ -155,9 +155,6 @@ button:active {
   border: none;
   background-color: transparent;
   margin-bottom: 60px;
-  border-bottom: 2px solid black;
-  border-top: 2px solid black;
-  padding: 10px;
 }
 .tab button {
   background-color: DodgerBlue;
@@ -194,5 +191,5 @@ button:active {
 }
 .xfooter{
 position: absolute;
-  bottom: 50px;
+  bottom: 100px;
 }
