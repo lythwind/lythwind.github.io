@@ -202,7 +202,7 @@ button:active {
 
 .xfooter {
   position: absolute;
-  bottom: 100px;
+  bottom: 0;
   width: 100%;
   height: 1.0rem;           
 }
