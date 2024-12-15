@@ -155,8 +155,8 @@ button:active {
   border: none;
   background-color: transparent;
   margin-bottom: 60px;
-  border-bottom: 1px solid black;
-  border-top: 1px solid black;
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
   padding: 10px;
 }
 .tab button {
@@ -169,6 +169,7 @@ button:active {
   transition: 0.3s;
   margin-right:10px;
   font-size: 24px;
+  border-radius: 15px;
 }
 
 .tab button:hover {
