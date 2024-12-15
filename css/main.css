@@ -192,4 +192,5 @@ button:active {
 .xfooter{
 position: relative;
   bottom: 100px;
+  margin-top: 200px;
 }
