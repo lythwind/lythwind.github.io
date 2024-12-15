@@ -154,8 +154,8 @@ button:active {
   overflow: hidden;
   border: none;
   background-color: transparent;
-  margin-bottom: 50px;
-  padding-bottom: 20px
+  margin-bottom: 20px;
+  padding-bottom: 15px
 }
 .tab button {
   background-color: DodgerBlue;
