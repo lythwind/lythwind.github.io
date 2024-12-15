@@ -154,8 +154,8 @@ button:active {
   overflow: hidden;
   border: none;
   background-color: transparent;
-  margin-bottom: 60px;
-  padding-bottom: 15px
+  margin-bottom: 50px;
+  padding-bottom: 20px
 }
 .tab button {
   background-color: DodgerBlue;
@@ -165,10 +165,10 @@ button:active {
   cursor: pointer;
   padding: 22px 26px;
   transition: 0.3s;
-  margin-right:10px;
+  margin-right:15px;
   font-size: 24px;
   border-radius: 15px;
-  box-shadow: 0 5px #999;
+  box-shadow: 0 9px #999;
 }
 
 .tab button:hover {
