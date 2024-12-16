@@ -1,6 +1,24 @@
+title: Lythscript
+tagline: Information Technology 
+author: Temitayo Olaleye-Otunla 
+description: Information Technology 
 name: Lythscript
 markdown: kramdown
+twitter: 
+   username: lythscript
+   card: summary
+facebook:
+  publisher: https://facebook.com/lythscript
+social:
+  name: Lythscript 
+  links:
+    - https://twitter.com/lythscript
+    - https://www.facebook.com/lythscript
+    - https://www.linkedin.com/company/lythscript
+    - https://github.com/lythscript
+   
 permalink: /blog/:year/:month/:day/:title
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  
