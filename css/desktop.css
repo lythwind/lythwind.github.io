@@ -38,8 +38,8 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1.3em;
-    line-height: 1.3em;
+    font-size: 1.2em;
+    line-height: 1.2em;
     color: #333;
 }
 footer {
@@ -214,8 +214,8 @@ position: absolute;
 }
 .bn{
   display: inline-block;
-  padding: 25px 35px;
-  font-size: 24px;
+  padding: 10px 20px;
+  font-size: 20px;
   cursor: pointer;
   text-align: center;
   text-decoration: none;
