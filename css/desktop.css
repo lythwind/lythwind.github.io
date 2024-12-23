@@ -11,6 +11,9 @@
   flex-direction: row;
   margin-right: 20px;
 }
+.flex-container >.flex-item{
+
+}
 
 body {
     background-color: Gray;
