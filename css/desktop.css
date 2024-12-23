@@ -8,11 +8,10 @@
   position: relative;
   background-color: rgba(255,255,255,0.2);
   display: inline-block;
-  margin-right: 10px;
+  margin-right: 20px;
 }
 
 body {
-    width:90%;
     background-color: Gray;
 }
 nav ul, footer ul {
@@ -194,11 +193,6 @@ button:active {
   to {opacity: 1;}
 }
 
-.other{
- position: absolute;
-  top:0;
-  left:0;
-}
 
 .bn{
   display: inline-block;
