@@ -8,7 +8,6 @@
   position: relative;
   background-color: rgba(255,255,255,0.2);
   display: flex;
-  flex-direction: row;
   margin-right: 20px;
 }
 .flex-container >.flex-item{
