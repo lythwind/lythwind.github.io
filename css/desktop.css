@@ -153,7 +153,7 @@ button:active {
 .tab {
   overflow: hidden;
   border: none;
-  background-color: transparent;
+  background-color: red;
   margin-left: 10px;
   padding-bottom: 10px
 }
